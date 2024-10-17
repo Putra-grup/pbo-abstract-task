@@ -1,0 +1,14 @@
+E:\PBO\Abstarct & Interface\Abstarct & Interface\obj\Debug\net8.0\Abstarct & Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\PBO\Abstarct & Interface\Abstarct & Interface\obj\Debug\net8.0\Abstarct & Interface.AssemblyInfoInputs.cache
+E:\PBO\Abstarct & Interface\Abstarct & Interface\obj\Debug\net8.0\Abstarct & Interface.AssemblyInfo.cs
+E:\PBO\Abstarct & Interface\Abstarct & Interface\obj\Debug\net8.0\Abstarct & Interface.csproj.CoreCompileInputs.cache
+E:\PBO\Abstarct & Interface\Abstarct & Interface\bin\Debug\net8.0\Abstarct & Interface.exe
+E:\PBO\Abstarct & Interface\Abstarct & Interface\bin\Debug\net8.0\Abstarct & Interface.deps.json
+E:\PBO\Abstarct & Interface\Abstarct & Interface\bin\Debug\net8.0\Abstarct & Interface.runtimeconfig.json
+E:\PBO\Abstarct & Interface\Abstarct & Interface\bin\Debug\net8.0\Abstarct & Interface.dll
+E:\PBO\Abstarct & Interface\Abstarct & Interface\bin\Debug\net8.0\Abstarct & Interface.pdb
+E:\PBO\Abstarct & Interface\Abstarct & Interface\obj\Debug\net8.0\Abstarct & Interface.dll
+E:\PBO\Abstarct & Interface\Abstarct & Interface\obj\Debug\net8.0\refint\Abstarct & Interface.dll
+E:\PBO\Abstarct & Interface\Abstarct & Interface\obj\Debug\net8.0\Abstarct & Interface.pdb
+E:\PBO\Abstarct & Interface\Abstarct & Interface\obj\Debug\net8.0\Abstarct & Interface.genruntimeconfig.cache
+E:\PBO\Abstarct & Interface\Abstarct & Interface\obj\Debug\net8.0\ref\Abstarct & Interface.dll
